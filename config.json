@@ -1,0 +1,27 @@
+[
+    {
+        "url": "https://www.walmart.ca/en/video-games/playstation-5/N-8971",
+        "store": "Walmart",
+        "rule": "redirect"
+    },
+    {
+        "url": "https://www.ebgames.ca/PS5/Games/877522/playstation-5",
+        "store": "EB Games",
+        "rule": "xpath"
+    },
+    {
+        "url": "https://www.bestbuy.ca/en-ca/product/playstation-5-console-online-only/14962185",
+        "store": "Best Buy",
+        "rule": "xpath"
+    },
+    {
+        "url": "https://www.toysrus.ca/en/PlayStation-5-Console/C443A89B.html",
+        "store": "Toys'R'Us",
+        "rule": "xpath"
+    },
+    {
+        "url": "https://www1.shoppersdrugmart.ca/en/food-and-electronics/playstation5",
+        "store": "Shoppers",
+        "rule": "xpath"
+    }
+]
